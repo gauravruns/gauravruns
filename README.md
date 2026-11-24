@@ -2,70 +2,77 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-iim/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav93414@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravruns)
-[![CFA Candidate](https://img.shields.io/badge/CFA-Level_I_Candidate_(Feb_2027)-005A9C?style=for-the-badge)](https://www.cfainstitute.org/)
+[![CFA Candidate](https://img.shields.io/badge/CFA-Level_I_Candidate-005A9C?style=for-the-badge)](https://www.cfainstitute.org/)
+[![BMC Certified](https://img.shields.io/badge/Bloomberg-BMC_Certified-black?style=for-the-badge&logo=bloomberg)](https://www.bloomberg.com/professional/education/)
 
-### **Quantitative Finance | Autonomous AI Agents | Algorithmic Trading Systems**
-*Undergraduate at IIM Sambalpur (BSMPP) • Aspire Leader • Half Marathon Runner 🏃‍♂️*
+### **Equity Research • Portfolio & Wealth Management • Financial Markets & Analytics**
+*Undergraduate at IIM Sambalpur (BSMPP) • Aspire Leader • Distance Runner (Half Marathons) 🏃‍♂️*
 
 </div>
 
 ---
 
-## ⚡ Executive Summary
+## 📌 Executive Summary
 
-I am a quantitative researcher and developer focused at the intersection of **computational finance**, **high-performance algorithmic trading pipelines**, and **autonomous agentic architectures**. My work spans quantitative valuation models (DCF, LBO, options pricing), institutional flow dynamics (FII/FPI & DII correlation analysis), and self-healing agent automation.
+I am a finance undergraduate at the **Indian Institute of Management (IIM) Sambalpur** passionate about understanding how capital moves, how businesses build lasting competitive advantages, and how data-driven tools sharpen investment decisions.
 
-- 🎓 **Academics**: B.S. in Management & Public Policy (BSMPP) at **Indian Institute of Management (IIM) Sambalpur** (Batch 2025–29).
-- 📈 **Market Focus**: Equity research, statistical arbitrage, market microstructure, and algorithmic risk management.
-- 🤖 **Systems & AI**: Building autonomous agents, automated scraping & research pipelines, and production execution systems.
-- 🏃 **Endurance**: Distance running enthusiast (Half Marathons) — applying the same relentless discipline and endurance to software and market research.
+My work bridges **fundamental equity research, portfolio & wealth management, and macro capital flow analysis with systematic market analytics and automation**:
+
+- 📊 **Equity Research & Valuation**: Developing structured Discounted Cash Flow (DCF), relative valuation, and sensitivity models to assess business moats, competitive dynamics, capital allocation, and corporate governance.
+- 💼 **Portfolio & Wealth Management**: Studying asset allocation, time value of money, wealth planning, risk-adjusted returns, and macroeconomic credit & liquidity cycles.
+- 🏛️ **Institutional Flow Dynamics**: Conducting empirical research on institutional capital flows — analyzing the negative correlation between FII/FPI selling pressure and domestic institutional investor (DII) buying behavior in Indian equities.
+- 📈 **Markets & Systematic Analytics**: Combining fundamental insights with market microstructure, technical analysis, systematic execution workflows, and options pricing dynamics.
+- 🏃‍♂️ **Discipline & Endurance**: Distance runner (Half Marathons) — applying the same patience, stamina, and rigor to equity analysis and long-term portfolio thinking.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## 🛠️ Areas of Focus & Capabilities
 
 ```ascii
-+------------------------+------------------------------------------------------------+
-| Domain                 | Technologies & Frameworks                                  |
-+------------------------+------------------------------------------------------------+
-| Quantitative & Data    | Python, NumPy, Pandas, SciPy, Statsmodels, PyTorch, Polars |
-| Financial Engineering  | Options Pricing (Black-Scholes), DCF/LBO, Bloomberg, CapIQ |
-| Algorithmic Execution  | OpenAlgo API, Event-Driven Backtesting, Zero-Friction Web  |
-| Autonomous Systems     | Multi-Agent Orchestration, CDP/Playwright, LLM Tooling     |
-| Databases & Storage    | SQLite, PostgreSQL, DuckDB, Redis                          |
-| Developer Environment  | Git, GitHub Actions (CI/CD), Linux/WSL2, Bash, Docker      |
-+------------------------+------------------------------------------------------------+
++-----------------------------+-------------------------------------------------------------+
+| Domain                      | Core Competencies & Tooling                                 |
++-----------------------------+-------------------------------------------------------------+
+| Equity Research & Valuation | DCF Modeling, Relative Multiples, S&P Capital IQ, BMC       |
+| Portfolio & Wealth Mgmt     | Asset Allocation, Risk-Adjusted Returns, Wealth Planning    |
+| Macro & Capital Flows       | FII/FPI & DII Flow Dynamics, Retail Credit, Macro Trends    |
+| Market Analysis & Trading   | Market Microstructure, Options Pricing, Systematic Setups   |
+| Financial Data & Tech       | Python (Pandas, NumPy), Excel Financial Models, Automation  |
+| Developer Environment       | Git, GitHub Actions, Linux/Bash, Modular Architecture       |
++-----------------------------+-------------------------------------------------------------+
 ```
 
 ---
 
-## 🚀 Featured Flagship Architectures
+## 🔬 Flagship Research & Projects
 
-### 📊 [OpenAlgo System](https://github.com/gauravruns/Openalgo_System)
-*Production-grade Algorithmic Trading & Automated Execution Infrastructure*
-- Automated order lifecycle management, low-latency execution routing, and real-time risk checks.
-- Structured modular connectors with event-driven signal validation.
+### 📑 [Institutional Capital Flow Research (FII vs. DII)](https://github.com/gauravruns)
+*Empirical Study on Foreign Institutional Outflows & Domestic Counter-Absorption in Indian Equities*
+- Examining the inverse correlation between FII/FPI selling regimes and DII institutional support.
+- Tracking the buffering effect of domestic retail SIP inflows on equity market volatility and asset price resilience.
 
-### 🤖 [Trading Agent & Market Guider](https://github.com/gauravruns/Trading_agent)
-*Autonomous Market Research & Algorithmic Decision Engine*
-- Multi-modal agent pipeline analyzing institutional capital flows, sentiment, and options chain anomalies.
-- Synthesizes live market telemetry into disciplined, risk-adjusted trade setups.
+### 📊 [Corporate Valuation & Financial Modeling Frameworks](https://github.com/gauravruns)
+*Comprehensive DCF, 3-Statement Modeling & Scenario Analysis*
+- Three-statement integrated financial modeling, cost of capital (WACC) estimation, and sensitivity analysis across business cycles.
+- In-depth research notes on corporate governance, capital allocation, and sector headwinds.
 
-### 🔬 [AARU Simulation](https://github.com/gauravruns/AARU_Simulation)
-*Agent-Based Economic & Market Microstructure Simulation*
-- Modeling order-book dynamics, liquidity shifts, and behavioral agent interactions under high-volatility regimes.
+### ⚡ [OpenAlgo System & Market Automation](https://github.com/gauravruns/Openalgo_System)
+*Systematic Execution Infrastructure & Market Data Pipelines*
+- Structured order lifecycle automation, real-time risk checks, and modular broker API integration.
+- Bridging technical and market data analysis with systematic risk controls.
 
 ---
 
-## 🏆 Highlights & Milestones
+## 🏆 Honors & Credentials
 
-- **IMC Prosperity 4**: Ranked in the **Top 0.06% globally** in algorithmic trading and statistical arbitrage simulation.
-- **Aspire Leaders Program**: Selected for executive leadership and systemic problem-solving program.
-- **Corporate Simulations**: Completed quantitative research and engineering simulations with **J.P. Morgan** and **Goldman Sachs** (Forage).
-- **Research & Writing**: Research Analyst Intern at Research Patrika, authoring empirical studies on institutional foreign/domestic capital flows.
+- **CFA Level I Candidate** (CFA Institute)
+- **Bloomberg Market Concepts (BMC) Certified** — Economic Indicators, Currencies, Fixed Income, Equities
+- **Aspire Leaders Program** — Leadership, ethics, and economic decision-making
+- **IMC Prosperity 4**: Global algorithmic/market challenge (Ranked in Top 0.06%)
+- **Investment Banking & Markets Simulations**: J.P. Morgan & Goldman Sachs Virtual Experiences (Forage)
+- **Research Analyst Intern**: Research Patrika — authoring empirical research on institutional capital flows
 
 ---
 
@@ -85,6 +92,6 @@ I am a quantitative researcher and developer focused at the intersection of **co
 ---
 
 <div align="center">
-  <i>"Discipline over motivation. Precision over speed. Endurance over everything."</i><br/>
-  <b>Connect with me: <a href="mailto:gaurav93414@gmail.com">gaurav93414@gmail.com</a></b>
+  <i>"Understanding businesses alone is not enough. To truly understand markets, we must understand the distribution of capital, institutional incentives, and the forces driving long-term value."</i><br/><br/>
+  <b>Connect with me: <a href="https://www.linkedin.com/in/gaurav-kumar-iim/">LinkedIn</a> • <a href="mailto:gaurav93414@gmail.com">gaurav93414@gmail.com</a></b>
 </div>
