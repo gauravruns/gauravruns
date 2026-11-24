@@ -3,10 +3,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-iim/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav93414@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravruns)
+[![Email](https://img.shields.io/badge/Email-gaurav93414%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gaurav93414@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gauravruns-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravruns)
 [![CFA Candidate](https://img.shields.io/badge/CFA-Level_I_Candidate-005A9C?style=for-the-badge)](https://www.cfainstitute.org/)
-[![BMC Certified](https://img.shields.io/badge/Bloomberg-BMC_Certified-black?style=for-the-badge&logo=bloomberg)](https://www.bloomberg.com/professional/education/)
+[![BMC Certified](https://img.shields.io/badge/Bloomberg-BMC_Certified-black?style=for-the-badge&logo=bloomberg)](https://portal.bloombergforeducation.com/certificates/QS5vzmHP2ZgEuzAwgt2jQ45M)
 
 ### **Equity Research • Portfolio & Wealth Management • Financial Markets & Analytics**
 *Undergraduate at IIM Sambalpur (BSMPP) • Aspire Leader • Distance Runner (Half Marathons) 🏃‍♂️*
@@ -68,7 +68,7 @@ My focus integrates **fundamental equity research, portfolio & wealth management
 ## 🏆 Honors & Credentials
 
 - **CFA Level I Candidate** (CFA Institute)
-- **Bloomberg Market Concepts (BMC) Certified** — Economic Indicators, Currencies, Fixed Income, Equities
+- **Bloomberg Market Concepts (BMC) Certified** — [Verify Certificate](https://portal.bloombergforeducation.com/certificates/QS5vzmHP2ZgEuzAwgt2jQ45M)
 - **Aspire Leaders Program** — Leadership, ethics, and economic decision-making (founded by Harvard faculty)
 - **IMC Prosperity 2**: Ranked in the **Top 600 globally (Top 6%)** out of 10,000+ collegiate teams in IMC Trading's global market simulation challenge
 - **Research Analyst**: Authored one-pager equity/market research reports and contributed to financial magazine publications
@@ -78,5 +78,5 @@ My focus integrates **fundamental equity research, portfolio & wealth management
 
 <div align="center">
   <i>"Understanding businesses alone is not enough. To truly understand markets, we must understand the distribution of capital, institutional incentives, and the forces driving long-term value."</i><br/><br/>
-  <b>Connect with me: <a href="https://www.linkedin.com/in/gaurav-kumar-iim/">LinkedIn</a> • <a href="mailto:gaurav93414@gmail.com">gaurav93414@gmail.com</a></b>
+  <b>Connect with me: <a href="https://www.linkedin.com/in/gaurav-kumar-iim/">LinkedIn</a> • <a href="mailto:gaurav93414@gmail.com">Email</a> • <a href="https://portal.bloombergforeducation.com/certificates/QS5vzmHP2ZgEuzAwgt2jQ45M">Bloomberg Certificate</a></b>
 </div>
