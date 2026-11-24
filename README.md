@@ -19,11 +19,11 @@
 
 I am a finance undergraduate at the **Indian Institute of Management (IIM) Sambalpur** passionate about understanding how capital moves, how businesses build lasting competitive advantages, and how data-driven tools sharpen investment decisions.
 
-My work bridges **fundamental equity research, portfolio & wealth management, and macro capital flow analysis with systematic market analytics and automation**:
+My focus integrates **fundamental equity research, portfolio & wealth management, and macro capital flow analysis with systematic market analytics and financial modeling**:
 
 - 📊 **Equity Research & Valuation**: Developing structured Discounted Cash Flow (DCF), relative valuation, and sensitivity models to assess business moats, competitive dynamics, capital allocation, and corporate governance.
 - 💼 **Portfolio & Wealth Management**: Studying asset allocation, time value of money, wealth planning, risk-adjusted returns, and macroeconomic credit & liquidity cycles.
-- 🏛️ **Institutional Flow Dynamics**: Conducting empirical research on institutional capital flows — analyzing the negative correlation between FII/FPI selling pressure and domestic institutional investor (DII) buying behavior in Indian equities.
+- 🏛️ **Institutional Flow Dynamics**: Analyzing institutional capital flows — studying foreign institutional (FII/FPI) selling trends and domestic institutional investor (DII) market absorption in Indian equities.
 - 📈 **Markets & Systematic Analytics**: Combining fundamental insights with market microstructure, technical analysis, systematic execution workflows, and options pricing dynamics.
 - 🏃‍♂️ **Discipline & Endurance**: Distance runner (Half Marathons) — applying the same patience, stamina, and rigor to equity analysis and long-term portfolio thinking.
 
@@ -69,25 +69,10 @@ My work bridges **fundamental equity research, portfolio & wealth management, an
 
 - **CFA Level I Candidate** (CFA Institute)
 - **Bloomberg Market Concepts (BMC) Certified** — Economic Indicators, Currencies, Fixed Income, Equities
-- **Aspire Leaders Program** — Leadership, ethics, and economic decision-making
-- **IMC Prosperity 4**: Global algorithmic/market challenge (Ranked in Top 0.06%)
+- **Aspire Leaders Program** — Leadership, ethics, and economic decision-making (founded by Harvard faculty)
+- **IMC Prosperity 2**: Ranked in the **Top 600 globally (Top 6%)** out of 10,000+ collegiate teams in IMC Trading's global market simulation challenge
+- **Research Analyst**: Authored one-pager equity/market research reports and contributed to financial magazine publications
 - **Investment Banking & Markets Simulations**: J.P. Morgan & Goldman Sachs Virtual Experiences (Forage)
-- **Research Analyst Intern**: Research Patrika — authoring empirical research on institutional capital flows
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gauravruns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" alt="Gaurav's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravruns&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Top Languages" width="48%" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gauravruns&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakNum=00ff88)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
